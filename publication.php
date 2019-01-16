@@ -1,0 +1,31 @@
+<?php  
+include 'header.php';
+?>
+
+<div class="container">
+<ol>
+<li>Manoj Shakya, <strong>Sushil Shrestha</strong>, Rajesh Manandhar, Manish Joshi and Prasamsa Khanal, “<i>Kathmandu University Open Online Course</i>”, Fourth International Conference on Information Technology for Development (IT4D), July 29 – 30, 2017 at Deerwalk Complex and Hotel Annapurna. Kathmandu, Nepal.</li>
+<br /><li>Jyotika Tuladhar, Shirish Khanal, Sakar Ghimire, Roshan Sapkota and <strong>Sushil Shrestha</strong>, “<i>Developing online portal as a Knowledge Management System to track and locate trekkers in the Annapurna trekking trails of Nepal</i>”, Fourth International Conference on Information Technology for Development (IT4D), July 29 – 30, 2017 at Deerwalk Complex and Hotel Annapurna. Kathmandu, Nepal.</li>
+<br /><li>Sujal Kokh Shrestha, Prakash Dahal, Ruben Maharjan, Niraj Shrestha and <strong>Sushil Shrestha</strong>, “<i>Creating a knowledge portal for effective knowledge sharing: evaluation of undergraduate projects of computer department at Kathmandu University</i>”, Fourth International Conference on Information Technology for Development (IT4D), July 29 – 30, 2017 at Deerwalk Complex and Hotel Annapurna, Kathmandu, Nepal.</li>
+<br /><li>Anup Sedhain, Rajshree Rai, Ashutosh Chapagain, Deepesh Subedi, Krishu Thapa, <strong>Sushil Shrestha</strong>, “<i>Learnhub</i>”, Fourth International Conference on Information Technology for Development (IT4D), July 29 – 30, 2017 at Deerwalk Complex and Hotel Annapurna. Kathmandu, Nepal.</li>
+<br /><li>Prasamsa Khanal, Manoj Shakya and <strong>Sushil Shrestha</strong>, “<i>Importance of Usability in Online Learning Technologies</i>”, Fourth International Conference on Information Technology for Development (IT4D), July 29 – 30, 2017 at Deerwalk Complex and Hotel Annapurna. Kathmandu, Nepal.</li>
+<br /><li>Manish Joshi, Manoj Shakya and <strong>Sushil Shrestha</strong>, “<i>Online Learning and Knowledge Management: Challenges and Solutions</i>”, Fourth International Conference on Information Technology for Development (IT4D), July 29 – 30, 2017 at Deerwalk Complex and Hotel Annapurna. Kathmandu, Nepal.</li>
+<br /><li>Manoj Shakya, <strong>Sushil Shrestha</strong>, Rajesh Manandhar, Manish Joshi and Prasamsa Khanal, “<i>Reflections on First MOOC of Nepal: From Learners’ Perspective</i>”, The International Conference on Open and Innovative Education 2017, 12-14 July, Hong Kong.</li>
+<br /><li><strong>Sushil Shrestha</strong>, “<i>MOOC: Opportunities and Challenges in the context of Nepal</i>”, Doctoral Research forum 2017: Instructional Design and Learning Analytics in MOOCs, 12-14 July, 2017, X-Learning Center, Graduate School of Education, Peking University, Beijing, China.</li>
+<br /><li>Manoj Shakya, <strong>Sushil Shrestha</strong>, Rajesh Manandhar, Manish Joshi and Prasamsa Khanal, “<i>Initiation of MOOC in Nepal by Kathmandu University</i>”, 8 July, National Conference on ICT Integrated Pedagogy for Effective and Meaningful Learning, organized by UNESCO Resource Distribution and Training Center (RDTC), Kathmandu University School of Education (KUSOED) in collaboration with Ministry of Education (MOE), Nepal, Open and Distance Education Center (ODEC) Tribhuvan University, Kathmandu, Nepal.</li>
+<br /><li><strong>Sushil Shrestha</strong>, “<i>Developing better user interface by applying HCI Design Principles</i>”, The 2nd International Conference on Next Generation Computing (ICNGC 2017), 5-7 January, 2017, Ho Chi Minh, Vietnam.</li>
+<br /><li>Manoj Shakya, <strong>Sushil Shrestha</strong> and Rajesh Manandhar, “<i>Awareness of MOOC Among College Students: A Study of Far Western Region of Nepal</i>”, 3<sup>rd</sup> International Conference on e-Learning for Development, 30 July- 1 August, 2016, Hotel Annapurna, Kathmandu, Nepal.</li>
+<br /><li>Aarya Joshi, Pradip Silwal, Torchi Rokaya, Manish Gautam and <strong>Sushil Shrestha</strong>, “<i>Role of Knowledge Management in Business Startups</i>”, First International Conference on Social Entrepreneurship Nepal, 30 June- 1 July, Hyatt Regency, Kathmandu University, Nepal.</li>
+<br /><li><strong>Shrestha S</strong>, Regmi B, Dotel S, Bhattarai D, Adhikari M (2016),<i> Creating a Knowledge Base to Enhance Knowledge Sharing: A Case Study of Computer Department at Kathmandu University</i>. J Inform Tech Softw Eng 6: 175.doi:10.4172/2165-7866.1000175.</li>
+<br /><li><strong>Sushil Shrestha</strong>, “<i>Implementation of Knowledge Management System for effective knowledge sharing</i>”, 7<sup>th</sup> National Conference on Science and Technology, 29-31 March, 2016, Hotel Yak and Yeti, Kathmandu, Nepal.</li>
+<br /><li><strong>Sushil Shrestha</strong>, “<i>Role of University Education in Community: A case study of Community Education Project of Kathmandu University</i>”, 3<sup>rd</sup> Annual Sustainable Development Conference, 5-7 July, 2015, Bangkok, Thailand.</li>
+<br /><li><strong>Sushil Shrestha</strong>, “<i>Proposed guidelines to select Learning Management System</i>”, 11<sup>th</sup> International Conference “Inter-University Cooperation Program “ASIAN Community Knowledge Networks for the Economy, Society, Culture, and Environmental Stability”, 30 March-3 April, 2015, Soaltee Crown Plaza, Kathmandu, Nepal.</li>
+<br /><li><strong>Shrestha, S.</strong> and Kim J.M., “<i>Bridging the Gap between E-Learning and Knowledge Management (KM): An enhancement of Moodle system by applying KM Functions</i>”, International Journal of Science and Technology, ISSN 2049-7318, IJST Publications UK, Vol. 2, Issue. 1, January, 2013, 104-111.</li>
+<br /><li><strong>Sushil Shrestha</strong>, Book, “<i>Bridging the gap between E-learning and Knowledge Management</i>”, LAP LAMBERT Academic Publishing GmbH & Co. KG, ISBN: 978-3-659-15079-1, Deutschland, 2012, [Online], Available on this <a href="https://www.morebooks.de/store/gb/book/bridging-the-gap-between-e-learning-and- knowledge-management/isbn/978-3-659-15079-1" target="_blank">link</a>.</li>
+<br /><li><strong>Shrestha, S.</strong>, “<i>Role of Semantic graph in Web Page Content Visualization</i>”, Kathmandu University Journal of Science, Engineering and Technology, Vol. 8, No. 1, February, 2012, 125-133.</li>
+</ol>
+</div>
+
+<?php  
+include 'footer.php';
+?>
